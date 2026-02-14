@@ -14,7 +14,7 @@ git config --list
 git config --global user.email "pepito@correo.com"
 
 # Con el siguiente comando configuramos el nombre en nuestro git local
-git config --global user.email "Pepito Perez"
+git config --global user.name "Pepito Perez"
 ```
 
 ### Punto 2:
