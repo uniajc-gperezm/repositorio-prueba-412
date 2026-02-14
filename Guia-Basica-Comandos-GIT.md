@@ -61,6 +61,12 @@ git remote -v
 
 Con este apartado usaremos los siguientes comandos para trabajar en las 3 etapas que existen en nuestro git local:
 
+0. este comando sirve para sincronizar la rama principal en nuestro local   / PULL
+
+    ```
+    git pull origin {nombre-rama}
+    ```
+
 1. Directorio de trabajo / Working Directory 
     ``` 
     git add .
